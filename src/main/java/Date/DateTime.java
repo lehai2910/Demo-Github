@@ -35,5 +35,4 @@ public class DateTime {
         String s = sdf.format(d);
         System.out.println(s);
     }
-
 }
